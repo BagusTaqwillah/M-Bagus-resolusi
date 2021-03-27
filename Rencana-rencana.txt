@@ -1,0 +1,5 @@
+Rencana yg saya ingin saya lakukan adalah:
+1.ingin memahami banyak bahasa pemograman
+2.mengetahui salah satu framework dari salah satu bahasa pemograman dan mampu mengaplikasikanya
+3.dapat bekerja dengan Rest API
+4.mahir dalam Git
