@@ -1,2 +1,2 @@
 # M-Bagus-resolusi
-Repository untuk menyimpan tugas
+Repository untuk menyimpan project
